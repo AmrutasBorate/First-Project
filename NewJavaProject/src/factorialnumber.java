@@ -13,6 +13,7 @@ public class factorialnumber {
 		for(int i=b;i>0;i--) {
 			Fact=Fact*i;
 		}
-   System.out.println("Factorial of a is " +fact);
+   System.out.println("Factorial of A is " +fact);
+		System.out.println("GitHub pull code")
 	}
 }
