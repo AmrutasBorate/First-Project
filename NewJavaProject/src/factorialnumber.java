@@ -14,6 +14,6 @@ public class factorialnumber {
 			Fact=Fact*i;
 		}
    System.out.println("Factorial of A is " +fact);
-		System.out.println("GitHub pull code")
+		System.out.println("GitHub pull code");
 	}
 }
